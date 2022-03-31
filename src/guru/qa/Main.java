@@ -7,5 +7,6 @@ public class Main {
     System.out.println ("Googbue ");
     System.out.println ("Change for second commit");
     System.out.println ("Line for new_branch");
+    System.out.println ("Line for new_branch");
     }
 }
